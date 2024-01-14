@@ -1,0 +1,7 @@
+C:\Users\Serhat\Desktop\PT ODEV\asal-sayı-hesaplama\bin\Debug\asal-sayı-hesaplama.exe.config
+C:\Users\Serhat\Desktop\PT ODEV\asal-sayı-hesaplama\bin\Debug\asal-sayı-hesaplama.exe
+C:\Users\Serhat\Desktop\PT ODEV\asal-sayı-hesaplama\bin\Debug\asal-sayı-hesaplama.pdb
+C:\Users\Serhat\Desktop\PT ODEV\asal-sayı-hesaplama\obj\Debug\asal-sayı-hesaplama.csproj.AssemblyReference.cache
+C:\Users\Serhat\Desktop\PT ODEV\asal-sayı-hesaplama\obj\Debug\asal-sayı-hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\Serhat\Desktop\PT ODEV\asal-sayı-hesaplama\obj\Debug\asal-sayı-hesaplama.exe
+C:\Users\Serhat\Desktop\PT ODEV\asal-sayı-hesaplama\obj\Debug\asal-sayı-hesaplama.pdb
